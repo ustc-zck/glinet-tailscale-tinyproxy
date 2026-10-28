@@ -1,4 +1,3 @@
-pyenv: cannot rehash: /Users/bytedance/.pyenv/shims isn't writable
 ---
 name: glinet-tailscale-tinyproxy
 description: Configure and troubleshoot a GL.iNet or OpenWrt router as a Tailscale-only HTTP/HTTPS proxy using Tinyproxy, including package installation, LuCI setup, access restrictions, service startup, and per-application client commands. Use when the user wants selected applications to use a remote router's public IP without enabling a full-device exit node or exposing a proxy to WAN.
