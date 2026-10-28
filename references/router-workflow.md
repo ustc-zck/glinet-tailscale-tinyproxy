@@ -1,4 +1,3 @@
-pyenv: cannot rehash: /Users/bytedance/.pyenv/shims isn't writable
 # Router workflow and troubleshooting
 
 Use this reference while carrying out the router configuration. Labels are based on GL.iNet 4.x and LuCI on OpenWrt 22.03; adapt to the installed firmware rather than assuming exact menu placement.
