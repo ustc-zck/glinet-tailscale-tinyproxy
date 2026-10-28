@@ -1,0 +1,5 @@
+pyenv: cannot rehash: /Users/bytedance/.pyenv/shims isn't writable
+interface:
+  display_name: "GL.iNet Tailscale Proxy"
+  short_description: "Configure a GL.iNet Tailscale-only HTTP proxy"
+  default_prompt: "Use $glinet-tailscale-tinyproxy to configure a GL.iNet router as a Tailscale-only proxy for selected applications."
