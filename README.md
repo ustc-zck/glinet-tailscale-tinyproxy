@@ -1,4 +1,3 @@
-pyenv: cannot rehash: /Users/bytedance/.pyenv/shims isn't writable
 # GL.iNet Tailscale Tinyproxy Skill
 
 一个可复用的 Codex Skill，用于把 GL.iNet / OpenWrt 路由器配置成仅通过 Tailscale 访问的 HTTP/HTTPS 代理，让 Claude Code 等指定应用使用远端路由器的公网出口，同时不改变设备的其他网络流量。
